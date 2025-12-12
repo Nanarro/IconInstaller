@@ -1,95 +1,89 @@
-# 🎨 Icon Installer (DBI Theme)
+<div align="center">
 
-> **Personaliza tus carpetas de Windows con una sola herramienta.**
+  <img src="https://github.com/user-attachments/assets/10f5cb34-393f-4cf0-83dd-8961c96b7e70" alt="Logo" width="120" height="auto" />
+  <h1>Icon Installer</h1>
+  
+  <p>
+    <strong>La forma más rápida y elegante de personalizar tus carpetas en Windows.</strong>
+  </p>
 
-![Badge Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Badge Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python)
-![Badge Release](https://img.shields.io/badge/Release-v1.0-green?style=for-the-badge)
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows" />
+    <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/Release-v1.0-green?style=for-the-badge" alt="Version" />
+  </p>
 
----
+  <br />
 
-## 📸 Capturas de Pantalla
-*(Así se ve la herramienta en acción)*
+  <img src="https://github.com/user-attachments/assets/4713e614-0097-477a-b9e0-6ca76b4680c9" alt="Vista Principal" width="90%" style="border-radius: 10px;" />
 
-<img width="659" height="650" alt="1" src="https://github.com/user-attachments/assets/4713e614-0097-477a-b9e0-6ca76b4680c9" />
+</div>![Uploading Documento.jpg…]()
 
 
----
-
-## 🚀 ¿Qué hace esta herramienta?
-
-**Icon Installer** es una aplicación portable que automatiza el tedioso proceso de personalizar carpetas en Windows.
-Olvídate de convertir imágenes a `.ico` manualmente, editar propiedades o perder iconos porque borraste la imagen original.
-
-### ✨ Características Principales
-* **Interfaz Híbrida:** Pega una **URL de internet** o **Arrastra una imagen local** directamente a la consola.
-* **Conversión Inteligente:** Convierte automáticamente JPG, PNG y WEBP a formato `.ico` de alta calidad.
-* **Ajuste 1:1:** Redimensiona cualquier imagen a un cuadrado perfecto sin deformarla.
-* **Gestión de Almacén:** Guarda todos tus iconos generados en una carpeta segura automáticamente.
+<br />
 
 ---
 
-## ⚠️ IMPORTANTE: Antes de empezar
+## 🚀 ¿Qué es Icon Installer?
 
-> [!IMPORTANT]
-> **ESTA HERRAMIENTA ES EXCLUSIVAMENTE PARA CARPETAS (DIRECTORIOS).**
->
-> No funciona para cambiar iconos de archivos ejecutables (`.exe`), accesos directos (`.lnk`) o archivos sueltos. Su función es modificar la apariencia de los **directorios** donde guardas tus juegos, documentos o proyectos.
+**Icon Installer** es una herramienta de automatización diseñada para mantener tu entorno de Windows organizado y estético. 
 
----
+Nació de la necesidad de gestionar grandes bibliotecas de archivos y proyectos sin perder tiempo convirtiendo imágenes manualmente. Simplemente pega una URL o arrastra una imagen local, y el programa se encarga de todo el proceso técnico: descarga, conversión, redimensionado y aplicación.
 
-## 📖 Guía de Uso Paso a Paso
-
-### 1️⃣ Configuración Inicial (El Almacén de Iconos)
-La primera vez que abras la app, te pedirá seleccionar una carpeta para el **"Almacén de Iconos"**.
-
-<img width="666" height="465" alt="2" src="https://github.com/user-attachments/assets/0430c985-d5d0-4004-ae41-55253cc80e42" />
-
-
-**¿Por qué es importante esto?**
-Windows no guarda la imagen *dentro* de la carpeta que personalizas. Solo crea un "puente" hacia un archivo `.ico`.
-* Si usaras la imagen de Descargas y luego la borraras, **tu carpeta perdería el icono**.
-* **Solución:** Esta app crea una copia `.ico` permanente en tu "Almacén". Así, aunque borres la imagen original, tus carpetas nunca perderán su estilo.
+### ✨ Características Clave
+* **Interfaz Híbrida:** Soporta Drag & Drop (Archivos locales) y URLs de internet.
+* **Motor de Conversión:** Transforma JPG, PNG y WEBP a `.ico` de alta resolución automáticamente.
+* **Smart Resize:** Ajusta cualquier imagen a formato cuadrado (1:1) sin deformarla.
+* **Backup System:** Genera un almacén de iconos independiente para evitar que se pierdan si borras la imagen original.
 
 ---
 
-### 2️⃣ Seleccionar la Imagen
-Tienes dos formas de meter una imagen al programa:
+## ⚠️ Nota Importante
 
-* **OPCIÓN A (Internet):** Busca una imagen en Google, dale Click Derecho > *Copiar dirección de imagen* y pégala en la terminal.
-* **OPCIÓN B (Local):** Simplemente **arrastra tu archivo de imagen** (JPG, PNG, etc.) desde tu escritorio hacia dentro de la ventana azul.
-
-(![ejemplo-ezgif com-optimize](https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d)
-)
+> **Esta herramienta funciona exclusivamente con CARPETAS.**
+> No está diseñada para cambiar iconos de accesos directos (`.lnk`) ni ejecutables (`.exe`), su función es personalizar directorios.
 
 ---
 
-### 3️⃣ Aplicar a la Carpeta
-Una vez procesada la imagen, se abrirá una ventana para que elijas la carpeta que quieres "tunear".
+## 📖 Flujo de Trabajo
 
-1.  Selecciona la carpeta de tu juego/proyecto.
-2.  Dale a "Seleccionar Carpeta".
-3.  **¡Listo!** Verás el mensaje de ÉXITO en verde.
+### 1. Configuración Inicial
+Define tu "Almacén de Iconos". Aquí es donde se guardarán los archivos `.ico` generados para que tus carpetas nunca pierdan su personalización.
 
-<img width="639" height="162" alt="3" src="https://github.com/user-attachments/assets/501bbded-73ec-4296-8b77-9eb8b8b1ac8c" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0430c985-d5d0-4004-ae41-55253cc80e42" width="80%" style="border-radius: 8px;" />
+</div>
 
+<br>
 
-> **Tip:** Si quieres cambiar la carpeta donde se guardan los iconos, escribe `config` en el menú principal.
+### 2. Cargar Imagen
+Arrastra una imagen desde tu escritorio directamente a la terminal o pega un enlace de Google Images.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d" width="80%" style="border-radius: 8px;" />
+</div>
+
+<br>
+
+### 3. Aplicar
+Selecciona la carpeta destino y listo. El cambio es inmediato.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/501bbded-73ec-4296-8b77-9eb8b8b1ac8c" width="80%" style="border-radius: 8px;" />
+</div>
 
 ---
 
-## 🛠️ Instalación
+## 📥 Descarga
 
-No requieres instalación. Simplemente descarga el ejecutable:
+No necesitas instalar Python ni librerías extra. Descarga el ejecutable portable:
 
-1.  Ve a la sección de **[Releases](https://github.com/Nanarro/IconInstaller/releases)** a la derecha.
+1.  Ve a la pestaña de **[Releases](https://github.com/Nanarro/IconInstaller/releases)**.
 2.  Descarga el archivo `IconInstaller.exe`.
-3.  Ejecútalo (Si Windows SmartScreen aparece, dale a "Más información" -> "Ejecutar de todas formas").
+3.  Ejecuta y personaliza.
 
 ---
 
-## 👤 Autor
-
-Desarrollado con ❤️ y mucho código por **Gen Castro**.
-
----
+<p align="center">
+  Desarrollado por <strong>Gen Castro</strong>
+</p>
