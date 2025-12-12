@@ -1,0 +1,13 @@
+# Archivos de compilación (Basura)
+__pycache__/
+build/
+dist/
+*.spec
+
+# Archivos de configuración local (Para que no subas tu ruta personal)
+settings.ini
+*.ini
+
+# Archivos de entorno virtual (si usaras)
+venv/
+.env
