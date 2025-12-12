@@ -15,10 +15,9 @@
 
   <br />
 
-  <img src="https://github.com/user-attachments/assets/4713e614-0097-477a-b9e0-6ca76b4680c9" alt="Vista Principal" width="90%" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/4713e614-0097-477a-b9e0-6ca76b4680c9" alt="Vista Principal" width="70%" style="border-radius: 10px;" />
 
-</div>![Uploading Documento.jpg…]()
-
+</div>
 
 <br />
 
@@ -51,7 +50,7 @@ Nació de la necesidad de gestionar grandes bibliotecas de archivos y proyectos 
 Define tu "Almacén de Iconos". Aquí es donde se guardarán los archivos `.ico` generados para que tus carpetas nunca pierdan su personalización.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0430c985-d5d0-4004-ae41-55253cc80e42" width="80%" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/0430c985-d5d0-4004-ae41-55253cc80e42" width="60%" style="border-radius: 8px;" />
 </div>
 
 <br>
@@ -60,7 +59,7 @@ Define tu "Almacén de Iconos". Aquí es donde se guardarán los archivos `.ico`
 Arrastra una imagen desde tu escritorio directamente a la terminal o pega un enlace de Google Images.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d" width="80%" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d" width="60%" style="border-radius: 8px;" />
 </div>
 
 <br>
@@ -69,7 +68,7 @@ Arrastra una imagen desde tu escritorio directamente a la terminal o pega un enl
 Selecciona la carpeta destino y listo. El cambio es inmediato.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/501bbded-73ec-4296-8b77-9eb8b8b1ac8c" width="80%" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/501bbded-73ec-4296-8b77-9eb8b8b1ac8c" width="60%" style="border-radius: 8px;" />
 </div>
 
 ---
