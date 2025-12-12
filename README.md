@@ -23,7 +23,6 @@ Olvídate de convertir imágenes a `.ico` manualmente, editar propiedades o perd
 
 ### ✨ Características Principales
 * **Interfaz Híbrida:** Pega una **URL de internet** o **Arrastra una imagen local** directamente a la consola.
-* **Estilo DBI:** Interfaz oscura de alto contraste, inspirada en las herramientas de la scene de Switch.
 * **Conversión Inteligente:** Convierte automáticamente JPG, PNG y WEBP a formato `.ico` de alta calidad.
 * **Ajuste 1:1:** Redimensiona cualquier imagen a un cuadrado perfecto sin deformarla.
 * **Gestión de Almacén:** Guarda todos tus iconos generados en una carpeta segura automáticamente.
