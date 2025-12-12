@@ -11,8 +11,8 @@
 ## 📸 Capturas de Pantalla
 *(Así se ve la herramienta en acción)*
 
-![Pegar aquí captura de la pantalla principal azul](<img width="676" height="683" alt="image" src="https://github.com/user-attachments/assets/746bb578-cbad-405a-81e6-b2ced705a7f2" />
-)
+<img width="659" height="650" alt="1" src="https://github.com/user-attachments/assets/4713e614-0097-477a-b9e0-6ca76b4680c9" />
+
 
 ---
 
@@ -44,8 +44,8 @@ Olvídate de convertir imágenes a `.ico` manualmente, editar propiedades o perd
 ### 1️⃣ Configuración Inicial (El Almacén de Iconos)
 La primera vez que abras la app, te pedirá seleccionar una carpeta para el **"Almacén de Iconos"**.
 
-![Pegar aquí imagen del mensaje de configuración inicial](<img width="1306" height="367" alt="image" src="https://github.com/user-attachments/assets/38b264ed-e3e5-416e-ab49-71f0a83a1efd" />
-)
+<img width="666" height="465" alt="2" src="https://github.com/user-attachments/assets/0430c985-d5d0-4004-ae41-55253cc80e42" />
+
 
 **¿Por qué es importante esto?**
 Windows no guarda la imagen *dentro* de la carpeta que personalizas. Solo crea un "puente" hacia un archivo `.ico`.
@@ -60,7 +60,7 @@ Tienes dos formas de meter una imagen al programa:
 * **OPCIÓN A (Internet):** Busca una imagen en Google, dale Click Derecho > *Copiar dirección de imagen* y pégala en la terminal.
 * **OPCIÓN B (Local):** Simplemente **arrastra tu archivo de imagen** (JPG, PNG, etc.) desde tu escritorio hacia dentro de la ventana azul.
 
-![Pegar aquí imagen arrastrando un archivo o pegando URL](![ejemplo-ezgif com-optimize](https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d)
+(![ejemplo-ezgif com-optimize](https://github.com/user-attachments/assets/3cf80f69-e076-402d-b9d8-da5f0035173d)
 )
 
 ---
@@ -72,8 +72,8 @@ Una vez procesada la imagen, se abrirá una ventana para que elijas la carpeta q
 2.  Dale a "Seleccionar Carpeta".
 3.  **¡Listo!** Verás el mensaje de ÉXITO en verde.
 
-![Pegar aquí imagen del mensaje de ÉXITO](<img width="639" height="162" alt="image" src="https://github.com/user-attachments/assets/e3953d36-91dc-49d1-a2ee-0a8ea0956c84" />
-)
+<img width="639" height="162" alt="3" src="https://github.com/user-attachments/assets/501bbded-73ec-4296-8b77-9eb8b8b1ac8c" />
+
 
 > **Tip:** Si quieres cambiar la carpeta donde se guardan los iconos, escribe `config` en el menú principal.
 
